@@ -18,7 +18,7 @@ hi Special					ctermfg=224					guifg=#ffd7d7
 hi Identifier 				ctermfg=75					guifg=#5fafff	cterm=none
 hi Statement 				ctermfg=226					guifg=#ffff00	cterm=none	gui=none
 hi PreProc					ctermfg=75					guifg=#5fafff
-hi Type						ctermfg=83					guifg=#5fff5f
+hi Type						ctermfg=83					guifg=#5fff5f	cterm=none	gui=none
 hi Function					ctermfg=231					guifg=#ffffff
 hi Repeat					ctermfg=231					guifg=#ffffff
 hi Operator					ctermfg=226					guifg=#ffff00
